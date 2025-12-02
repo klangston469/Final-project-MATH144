@@ -2,6 +2,7 @@ Motivation
  - Every year the Japanese conpany Sanrio (known for characters like Hello Kitty) holds a popularity contestb for its characters. What patterns are there to the top 80 characters for the past 5 years?
 
 To start I wanted to see how character name length is distributed across the ranked characers from 2020-2025
+
 [Histogram of 2020 Sanrio ranking]
 
 <img width="625" height="371" alt="Screenshot 2025-12-01 210545" src="https://github.com/user-attachments/assets/cb0d03ba-a461-481d-9470-e3771fee83ba" />
@@ -26,4 +27,5 @@ To start I wanted to see how character name length is distributed across the ran
 
 <img width="666" height="376" alt="Screenshot 2025-12-01 210637" src="https://github.com/user-attachments/assets/8a965bb4-88a8-4943-8dbb-9519f9bfdcbd" />
 
-From 2022 to 2023 the shape of the histograms change the most: 
+From 2022 to 2023 the shape of the histograms change the most: the character names get longer! Not by a huge anount but a shift to most names ranging from 5-20 characters in length.
+The shocking outlier ~35 letters is the character marshmallowmitainafuwahuwanayanko.
