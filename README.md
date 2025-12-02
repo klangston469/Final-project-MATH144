@@ -2,10 +2,12 @@ Motivation
  - Every year the Japanese conpany Sanrio (known for characters like Hello Kitty) holds a popularity contestb for its characters. What patterns are there to the top 80 characters for the past 5 years?
 
 To start I wanted to see how character name length is distributed across the ranked characers from 2020-2025
-[Histogram of 2020 Sanrio ranking]<img width="651" height="383" alt="Screenshot 2025-12-01 195741" src="https://github.com/user-attachments/assets/dab17ef8-2651-4c51-91fc-91a594d64b87" />
-[Histogram of 2021 Sanrio ranking]<img width="635" height="363" alt="Screenshot 2025-12-01 195826" src="https://github.com/user-attachments/assets/fd113bbd-1ccf-4923-811b-cb93498f17a4" />
-[Histogram of 2022 Sanrio ranking]<img width="637" height="374" alt="Screenshot 2025-12-01 195838" src="https://github.com/user-attachments/assets/260cd935-6f86-409c-a6cc-94e013986b97" />
-[Histogram of 2023 Sanrio ranking]<img width="633" height="364" alt="Screenshot 2025-12-01 195845" src="https://github.com/user-attachments/assets/21dba02d-1108-4166-bdb9-9249b3d09449" />
-[Histogram of 2024 Sanrio ranking]<img width="628" height="379" alt="Screenshot 2025-12-01 195853" src="https://github.com/user-attachments/assets/0b6a4150-b20b-4e57-984c-747a1052ee39" />
-[Histogram of 2025 Sanrio ranking]<img width="658" height="383" alt="Screenshot 2025-12-01 195859" src="https://github.com/user-attachments/assets/b3f967b2-aa28-4d66-84f5-8e4fab004c42" />
+[Histogram of 2020 Sanrio ranking]
+<img width="625" height="371" alt="Screenshot 2025-12-01 210545" src="https://github.com/user-attachments/assets/cb0d03ba-a461-481d-9470-e3771fee83ba" />
+[Histogram of 2021 Sanrio ranking]<img width="625" height="378" alt="Screenshot 2025-12-01 210557" src="https://github.com/user-attachments/assets/ce605225-f99f-49ed-9d68-2096d54ffcfe" />
+[Histogram of 2022 Sanrio ranking]<img width="610" height="378" alt="Screenshot 2025-12-01 210605" src="https://github.com/user-attachments/assets/d72920d8-6b59-4516-8509-6d8b92f87688" />
+[Histogram of 2023 Sanrio ranking]<img width="625" height="380" alt="Screenshot 2025-12-01 210614" src="https://github.com/user-attachments/assets/5b155510-d26c-4706-9361-433d23b74faa" />
+[Histogram of 2024 Sanrio ranking]<img width="631" height="376" alt="Screenshot 2025-12-01 210620" src="https://github.com/user-attachments/assets/23f2c7f6-c6c8-4064-b574-4f99a709c891" />
+[Histogram of 2025 Sanrio ranking]<img width="666" height="376" alt="Screenshot 2025-12-01 210637" src="https://github.com/user-attachments/assets/8a965bb4-88a8-4943-8dbb-9519f9bfdcbd" />
 
+From 2022 to 2023 the shape of the histograms change the most: 
