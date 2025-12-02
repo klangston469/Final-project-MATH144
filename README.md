@@ -28,4 +28,4 @@ To start I wanted to see how character name length is distributed across the ran
 <img width="666" height="376" alt="Screenshot 2025-12-01 210637" src="https://github.com/user-attachments/assets/8a965bb4-88a8-4943-8dbb-9519f9bfdcbd" />
 
 From 2022 to 2023 the shape of the histograms change the most: the character names get longer! Not by a huge anount but a shift to most names ranging from 5-20 characters in length.
-The shocking outlier ~35 letters is the character marshmallowmitainafuwahuwanayanko.
+The shocking outlier at 32 letters is the character marshmallowmitainafuwahuwanayanko.
