@@ -31,11 +31,17 @@ From 2022 to 2023 the shape of the histograms change the most: the character nam
 
 Without any spaces the top 80 characters of 2020's names average to 11.6
 The rest are as follows:
+
 2020= 11.6
+
 2021= 11.7
+
 2022= 11.3
+
 2023= 11.3
+
 2024= 11.2
+
 2025= 11.5
 
 The shocking outlier at 33 letters for each year is the character marshmallowmitainafuwahuwanayanko.
