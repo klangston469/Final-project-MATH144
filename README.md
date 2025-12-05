@@ -45,3 +45,10 @@ The rest are as follows:
 2025= 11.5
 
 The shocking outlier at 33 letters for each year is the character marshmallowmitainafuwahuwanayanko.
+
+Data Process
+ - First I visited the Sanrio character website and typed the ranking into a spreadsheet, being careful to use consistent formatting for characters even if their names were displayed differently year to year.
+ - Next I used R studios to count the length of each string from the spreadsheet and created histograms to visualize.
+
+The Histogram and average name lengths (without spaces) show a distinct change between the ranked characters of 2021 and 2022 (a change in roman alphabet name length of 0.4 letters). The histogram visually shows a difference in length between 2022 and 2023 despite average name length remaining constant.
+
